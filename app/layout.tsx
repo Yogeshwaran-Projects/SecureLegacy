@@ -10,7 +10,7 @@ export const metadata: Metadata = {
   title: "SecureLegacy - Secure Your Digital Legacy Forever",
   description:
     "Military-grade digital asset inheritance platform with zero-knowledge encryption and blockchain security",
-  generator: "v0.app",
+  generator: "Yogeshwaran",
 }
 
 export default function RootLayout({
