@@ -1,4 +1,2 @@
 dg gtedbdxb
-bdg
-
-yr
+bd
